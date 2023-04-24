@@ -28,6 +28,6 @@
   Just run the deployed application
 
   ## Questions
-  If you have any questions, please feel free to contact me: cnguyen7@mdanderson.org
+  If you have any questions, please feel free to contact me: cnguyen7@mdanderson.org. 
   My github profile is: https://github.com/cnguyen1013
 
