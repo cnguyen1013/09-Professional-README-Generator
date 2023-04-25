@@ -12,7 +12,7 @@ A command-line application that dynamically generates a professional README.md f
 
 The source code is found in the index.js file, relevant js code can be found within utils/. All relevant images will be contained in the assets/images folder. A sample README.md generated from the application can be found as "README_deploy.md".
 
-## Link to Depolyed Application
+## Link to Deployed Application
 
 N/A
 
