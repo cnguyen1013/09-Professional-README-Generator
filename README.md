@@ -15,3 +15,7 @@ The source code is found in the index.js file, relevant js code can be found wit
 ## Link to Depolyed Application
 
 N/A
+
+## Link to demo video
+
+The demo video can be found here: https://drive.google.com/file/d/1qBbHPbk74ZXMKPtd0k95lBVkvGNZhXIi/view?usp=sharing
