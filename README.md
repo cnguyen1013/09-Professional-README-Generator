@@ -18,4 +18,4 @@ N/A
 
 ## Link to demo video
 
-The demo video can be found here: https://drive.google.com/file/d/1qBbHPbk74ZXMKPtd0k95lBVkvGNZhXIi/view?usp=sharing
+The demo video can be found here: https://drive.google.com/file/d/153_94QqVMEZ_1BL-tXTsl85bofUpOWh0/view?usp=share_link
